@@ -1,5 +1,5 @@
 ### Hey! Whats going on👋
-I am  Hritik , a computer Science pre-final year student of IIITJ. 
+I am  Hritik , a computer Science pre-final year student at IIITDMJ. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning nodeJs , ReactJs
